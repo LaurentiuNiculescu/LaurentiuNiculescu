@@ -7,7 +7,7 @@ I've been writing code professionally since 2015 — started out doing frontend 
 
  Projects
 
-[meal-match.app](https://www.meal-match.app)** — Generates personalised 7-day meal plans, grocery lists, and workout routines using the Gemini API. React frontend, Node/Express backend, MongoDB. Supports English, Romanian, Spanish, and Italian recipes with a strict budget cap. Stripe handles payments.
+[meal-match.app](https://www.meal-match.app) — Generates personalised 7-day meal plans, grocery lists, and workout routines using the Gemini API. React frontend, Node/Express backend, MongoDB. Supports English, Romanian, Spanish, and Italian recipes with a strict budget cap. Stripe handles payments.
 
 
 
