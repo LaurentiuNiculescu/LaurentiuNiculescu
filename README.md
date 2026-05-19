@@ -1,16 +1,15 @@
 Laurentiu Niculescu
 
-Full-stack developer based in London. Currently working at Alpha IT Solutions while studying Software Engineering at the University of Greater Manchester.
+Full-stack developer based in London.I work at Alpha IT Solutions building software for small businesses, and I'm currently studying for a Software Engineering degree at the University of Greater Manchester alongside that.
 
-I mainly work with JavaScript, C#, and Python. On the frontend I use React with Tailwind, on the backend it's either Node/Express or ASP.NET Core depending on the project. I also handle deployment — most of my projects run on a VPS I provision and manage myself.
+I've been writing code professionally since 2015 — started out doing frontend work, moved into full-stack, and these days I handle everything from the database to the deployment.
 
----
 
  Projects
 
 [meal-match.app](https://www.meal-match.app)** — Generates personalised 7-day meal plans, grocery lists, and workout routines using the Gemini API. React frontend, Node/Express backend, MongoDB. Supports English, Romanian, Spanish, and Italian recipes with a strict budget cap. Stripe handles payments.
 
----
+
 
  Tech I use regularly
 
@@ -20,7 +19,7 @@ I mainly work with JavaScript, C#, and Python. On the frontend I use React with 
 - Databases: MongoDB, MySQL, SQLite, Entity Framework Core
 - Infrastructure: AWS (EC2, S3, RDS), Docker, VPS, CI/CD
 
----
+
 
  Work
 
@@ -28,6 +27,6 @@ I mainly work with JavaScript, C#, and Python. On the frontend I use React with 
 - SME Tech — Full Stack Developer (2018 – 2020)
 - Domo — Web Developer (2015 – 2018)
 
----
+
 
 Email: laurentiun87@gmail.com
